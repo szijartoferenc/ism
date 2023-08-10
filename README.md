@@ -23,7 +23,10 @@
 # Megrendelések rögzítése és megtekintése - Add and show orders
 ![Screenshot 2023-08-10 at 12-17-03 ISM Beszállítók megtekintése - Készletnyilvántartó rendszer](https://github.com/szijartoferenc/ism/assets/46969034/3ac02217-d9b5-4d1f-b0ab-61355a813be4)
 
-![Screenshot 2023-08-10 at 12-18-07 ISM Rendelések megtekintése - Készletnyilvántartó rendszer](https://github.com/szijartoferenc/ism/assets/46969034/745c6751-7abf-499b-a25d-b5d4d5002149)
+![Screenshot 2023-08-10 at 12-18-07 ISM Rendelések megtekintése - Készletnyilvántartó rendszer](https://github.com/szijartoferenc/ism/assets/46969034/745c6751-7abf-499b-a25d-b5d4d5002149) 
+
+# Megrendelés rögzítése - Add orders
+![Screenshot 2023-08-10 at 12-16-45 ISM Kezelőfelület - Készletnyilvántartó rendszer](https://github.com/szijartoferenc/ism/assets/46969034/5151c634-598d-41dd-a59b-140460291522)
 
 # Felhasználók rögzítése és megtekintése - Add and show users
 ![Screenshot 2023-08-10 at 12-18-32 ISM Kezelőfelület - Készletnyilvántartó rendszer](https://github.com/szijartoferenc/ism/assets/46969034/913af2f1-caa0-49c1-9220-f71a87782a2b)
@@ -32,5 +35,4 @@
 
 
 
-# Megrendelés rögzítése - Add orders
-![Screenshot 2023-08-10 at 12-16-45 ISM Kezelőfelület - Készletnyilvántartó rendszer](https://github.com/szijartoferenc/ism/assets/46969034/5151c634-598d-41dd-a59b-140460291522)
+

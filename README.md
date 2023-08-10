@@ -1,4 +1,4 @@
-# ISM - Invetory System - Készletnyilvántartó
+# ISM - Invetory System - Készletnyilvántartó rendszer
 # Kezdőoldal - Home
 ![Screenshot 2023-08-10 at 12-14-23 ISM kezdőoldal - Készletnyilvántartó rendszer](https://github.com/szijartoferenc/ism/assets/46969034/7a87f98e-e0e9-41c0-aa9a-18249473a28f)
 
